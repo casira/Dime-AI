@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Inria_Sans, Inria_Serif } from "next/font/google";
+import "bootstrap/dist/css/bootstrap.min.css";
 import "./globals.css";
 
 export const inriaSans = Inria_Sans({ weight: "400", subsets: ["latin"], variable: "--font-inria_sans" });

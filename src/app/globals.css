@@ -22,6 +22,14 @@ h2 {
   font-style: italic;
   text-align: center;
 }
+h3 {
+  color: black;
+  font-family: var(--font-inria_serif);
+  font-size: 1.5em;
+  font-weight: bolder;
+  font-style: italic;
+  text-align: center;
+}
 p.intro {
   font-family: var(--font-inria_sans);
   font-size: x-large;
